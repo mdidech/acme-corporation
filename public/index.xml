@@ -1,0 +1,61 @@
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acme Corporation</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Acme Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>abdelaziz.mdidech@gmail.com (M&#39;didech abdelaziz)</managingEditor>
+    <webMaster>abdelaziz.mdidech@gmail.com (M&#39;didech abdelaziz)</webMaster>
+    
+        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+<title></title>
+<link>http://example.org/about/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>abdelaziz.mdidech@gmail.com (M&#39;didech abdelaziz)</author>
+      <guid>http://example.org/about/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>http://example.org/contact/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>abdelaziz.mdidech@gmail.com (M&#39;didech abdelaziz)</author>
+      <guid>http://example.org/contact/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>http://example.org/credits/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>abdelaziz.mdidech@gmail.com (M&#39;didech abdelaziz)</author>
+      <guid>http://example.org/credits/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>http://example.org/policy/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>abdelaziz.mdidech@gmail.com (M&#39;didech abdelaziz)</author>
+      <guid>http://example.org/policy/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title></title>
+<link>http://example.org/terms/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>abdelaziz.mdidech@gmail.com (M&#39;didech abdelaziz)</author>
+      <guid>http://example.org/terms/</guid>
+<description></description>
+<category></category></item>
+    
+  </channel>
+</rss>
